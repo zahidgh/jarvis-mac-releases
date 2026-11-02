@@ -1,0 +1,25 @@
+{
+  "name": "Jarvis",
+  "version": "1.3.0",
+  "released": "2026-11-02",
+  "notes": "Acts right away again (asks one short question only when something is missing). Native Bangla voice (Bangla script) + optional ElevenLabs voice. Smoother audio. In-app updates. Permissions now stay after updates.",
+  "minimumSystemVersion": "12.0",
+  "assets": {
+    "arm64": {
+      "url": "https://drive.usercontent.google.com/download?id=1DDwMqyHsku0ZgArLOH850Han46DiWHsW&export=download&confirm=t",
+      "sha256": "ed47a702bfbef0099b76f3950f8f0be97f2d3380f44c039e20ee35c92b804cae",
+      "size": 109846304,
+      "page": "https://drive.google.com/file/d/1DDwMqyHsku0ZgArLOH850Han46DiWHsW/view"
+    },
+    "x64": {
+      "url": "https://drive.usercontent.google.com/download?id=1w-ak32kRgZVTNAH0mn6IcYXTgEvHUYAN&export=download&confirm=t",
+      "sha256": "6a42d92c93d437d392efc151aa8b30ed78db906a8ce0c3fd4b47ec13c09c37ba",
+      "size": 116461995,
+      "page": "https://drive.google.com/file/d/1w-ak32kRgZVTNAH0mn6IcYXTgEvHUYAN/view"
+    }
+  },
+  "signing": {
+    "certificate": "Jarvis Self-Signed",
+    "sha1": "7b0c19bead51bde23920807c1c083adcb2fdfe7e"
+  }
+}
